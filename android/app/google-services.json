@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220958713535",
+    "project_id": "n-side-app",
+    "storage_bucket": "n-side-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220958713535:android:2b75484baefaf3b9c6c80a",
+        "android_client_info": {
+          "package_name": "com.N_SideApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzBU4FHC8mz7xvXsCjyFRwSR823CLXH4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
